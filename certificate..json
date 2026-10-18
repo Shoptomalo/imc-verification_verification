@@ -1,0 +1,10 @@
+[
+  {
+    "id": "CERT-001",
+    "name": "Student Name",
+    "course": "Course Name",
+    "passport": "Passport Number",
+    "nationality": "Nationality",
+    "dateOfIssue": "YYYY-MM-DD"
+  }
+]
